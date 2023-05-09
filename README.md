@@ -1,3 +1,0 @@
-# amplifyapp
-
-changes to readme
